@@ -12,5 +12,3 @@ for word in new_text:
 print(f"Words without 'o': {' '.join(words)}")
 
 
-
-
